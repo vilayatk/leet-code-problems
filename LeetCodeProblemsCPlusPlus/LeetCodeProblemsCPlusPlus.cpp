@@ -1,6 +1,8 @@
 #include <iostream>
+#include "LongestSubString.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	const std::string s = "pwwkew";
+	std::cout << LongestSubString::FindLongestSubString(s);
 }

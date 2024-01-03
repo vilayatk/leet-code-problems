@@ -21,9 +21,15 @@
     <ClCompile Include="LongestSubString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Four_MedianOfTwoSortedArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LongestSubString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Four_MedianOfTwoSortedArrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

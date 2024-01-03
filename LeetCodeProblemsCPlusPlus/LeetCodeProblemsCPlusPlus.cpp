@@ -1,8 +1,8 @@
 #include <iostream>
-#include "LongestSubString.h"
-
+#include "Four_MedianOfTwoSortedArrays.h"
 int main()
 {
-	const std::string s = "pwwkew";
-	std::cout << LongestSubString::FindLongestSubString(s);
+	std::vector<int> vec1 = {1,2};
+	std::vector<int> vec2 = {3,4};
+	Four_MedianOfTwoSortedArrays::MedianOfSortedArrays(vec1, vec2);
 }

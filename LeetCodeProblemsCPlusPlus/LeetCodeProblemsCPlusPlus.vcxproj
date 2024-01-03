@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Four_MedianOfTwoSortedArrays.cpp" />
     <ClCompile Include="LeetCodeProblemsCPlusPlus.cpp" />
     <ClCompile Include="LongestSubString.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Four_MedianOfTwoSortedArrays.h" />
     <ClInclude Include="LongestSubString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/LeetCodeProblemsCPlusPlus/.vs/LeetCodeProblemsCPlusPlus/FileContentIndex/*.vsidx
+/LeetCodeProblemsCPlusPlus/.vs/LeetCodeProblemsCPlusPlus/v17/*.suo
+/LeetCodeProblemsCPlusPlus/.vs/LeetCodeProblemsCPlusPlus/v17/*.db
+/LeetCodeProblemsCPlusPlus/.vs/LeetCodeProblemsCPlusPlus/v17/ipch/AutoPCH/108e46ccca5ce99d/*.ipch
+/LeetCodeProblemsCPlusPlus/*.user

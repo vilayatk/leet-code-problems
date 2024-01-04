@@ -129,11 +129,11 @@
   <ItemGroup>
     <ClCompile Include="Four_MedianOfTwoSortedArrays.cpp" />
     <ClCompile Include="LeetCodeProblemsCPlusPlus.cpp" />
-    <ClCompile Include="LongestSubString.cpp" />
+    <ClCompile Include="Three_LongestSubString.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Four_MedianOfTwoSortedArrays.h" />
-    <ClInclude Include="LongestSubString.h" />
+    <ClInclude Include="Three_LongestSubString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

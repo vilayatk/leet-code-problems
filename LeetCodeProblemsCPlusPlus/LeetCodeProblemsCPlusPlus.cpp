@@ -1,7 +1,7 @@
 #include <iostream>
-#include "One_TwoSum.h"
+#include "Solution.h"
 int main()
 {
 	std::vector<int> vec1 = { 2,5,5,11 };
-	One_TwoSum::TwoSum(vec1, 10);
+	Solution::TwoSum(vec1, 7);
 }

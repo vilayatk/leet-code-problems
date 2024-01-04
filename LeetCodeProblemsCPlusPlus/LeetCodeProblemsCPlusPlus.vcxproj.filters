@@ -18,24 +18,12 @@
     <ClCompile Include="LeetCodeProblemsCPlusPlus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Three_LongestSubString.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Four_MedianOfTwoSortedArrays.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="One_TwoSum.cpp">
+    <ClCompile Include="Solution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Three_LongestSubString.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Four_MedianOfTwoSortedArrays.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="One_TwoSum.h">
+    <ClInclude Include="Solution.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

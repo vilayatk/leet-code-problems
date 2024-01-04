@@ -129,10 +129,12 @@
   <ItemGroup>
     <ClCompile Include="Four_MedianOfTwoSortedArrays.cpp" />
     <ClCompile Include="LeetCodeProblemsCPlusPlus.cpp" />
+    <ClCompile Include="One_TwoSum.cpp" />
     <ClCompile Include="Three_LongestSubString.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Four_MedianOfTwoSortedArrays.h" />
+    <ClInclude Include="One_TwoSum.h" />
     <ClInclude Include="Three_LongestSubString.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

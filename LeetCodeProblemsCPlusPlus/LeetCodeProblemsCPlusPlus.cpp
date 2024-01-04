@@ -1,8 +1,7 @@
 #include <iostream>
-#include "Four_MedianOfTwoSortedArrays.h"
+#include "One_TwoSum.h"
 int main()
 {
-	std::vector<int> vec1 = {1,2};
-	std::vector<int> vec2 = {3,4};
-	Four_MedianOfTwoSortedArrays::MedianOfSortedArrays(vec1, vec2);
+	std::vector<int> vec1 = { 2,5,5,11 };
+	One_TwoSum::TwoSum(vec1, 10);
 }

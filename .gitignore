@@ -30,6 +30,5 @@
 *.exe
 *.out
 *.app
-/LeetCodeProblemsCPlusPlus/.vs/
-/LeetCodeProblemsCPlusPlus/x64/
-/LeetCodeProblemsCPlusPlus/*.user
+
+.vs/*

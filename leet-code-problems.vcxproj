@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="merge-sorted-array.cpp" />
+    <ClCompile Include="remove-at-most-2-duplicates.cpp" />
     <ClCompile Include="remove-element.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

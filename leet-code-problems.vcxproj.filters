@@ -21,5 +21,8 @@
     <ClCompile Include="remove-element.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="remove-at-most-2-duplicates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

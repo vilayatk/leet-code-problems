@@ -18,7 +18,7 @@
     <ClCompile Include="merge-sorted-array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RemoveElement.cpp">
+    <ClCompile Include="remove-element.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
